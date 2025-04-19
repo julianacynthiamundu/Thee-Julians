@@ -1,0 +1,33 @@
+
+service-list{
+    width: 50%;
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0px;
+    padding-bottom: 10px;
+  }
+  
+  .service-item{
+    height: 90px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    gap: 5px;}
+
+    nav{
+        display: flex;
+        align-items: center;
+        padding: 5px;
+        color: beige;
+        gap: 1rem;
+        background-color:#6ec6ca;
+        font-style: ;
+        font-size:15px ;
+    }
+
+    .logo{
+padding: 5px;
+    }
